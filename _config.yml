@@ -18,6 +18,7 @@ favicon: favicon.ico
 repository: github_book/github_book.github.io
 github_url: https://github.com/github_book
 url: https://github_book.github.io
+url: http://blog.baoozi.top
 
 ## Gem
 plugins:
